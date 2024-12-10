@@ -1,0 +1,46 @@
+body{
+    background-color: #989494;
+    color: #fff;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.tarjeta{
+    width: 500px;
+    background-color: #24a;
+    margin: auto;
+    margin-top: 100px;
+    padding: 0px;
+    text-align: center;
+    box-shadow: 5px 0 30px 1px #000;
+    border-radius: 10px;
+    display: inline-block;
+    margin:50px;
+}
+.tarjeta-roja{
+    background-color: #a02;
+}
+.tarjeta-verde{
+    background-color: #395
+}
+.tarjeta_titulo{
+    padding-top:20px;
+    margin:0px;
+    color: #af6;
+    letter-spacing: 3px;
+}
+.tarjeta_desc{
+    font-weight:100;
+    letter-spacing: 7px;
+    padding-top:10px ;
+    padding-bottom: 0px;
+    margin: 0px;
+    color: #af6;
+}
+.tarjeta_contenido{
+    padding:25px;
+    text-align: center;
+}
+.tarjeta_img{
+    width:115px ;
+    border-radius: 100%;
+    padding-top:20px 
+}
